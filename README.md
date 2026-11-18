@@ -1,25 +1,22 @@
 # Hi, I'm Ali 👋
 
-I'm an **M.Sc. Data Science student at TU Dortmund University**, with a B.Sc. in Computer Engineering and previous experience contributing to a website recommender-system project during a Machine Learning Engineering internship.
+I'm an **M.Sc. Data Science student at TU Dortmund University** with a background in **Computer Engineering**. I'm interested in **machine learning, deep learning, and statistical modeling**, from implementing models in Python to understanding and evaluating their results.
 
-My interests include **machine learning, deep learning, statistical modeling, and Bayesian methods**.
+## What I work with
 
-## Technical Focus
+**Python** · PyTorch · pandas · NumPy · scikit-learn · Jupyter Notebook
 
-- **Programming & Data:** Python, pandas, NumPy
-- **Machine Learning:** PyTorch, scikit-learn, CNNs, clustering
-- **Statistics:** Statistical inference, Bayesian regression, Monte Carlo methods
-- **Tools:** Jupyter Notebook, GitHub
+**Areas of interest:** Deep Learning · Statistical Inference · Bayesian Methods · Monte Carlo Simulation
 
-## Selected Work
+## Selected projects
 
-I'm preparing my academic and personal projects for public release, including:
+I'm preparing some of my academic and personal projects for public release:
 
-- **Fashion-MNIST Classification:** An individual deep learning project using PyTorch, CNNs, and MLPs.
-- **Bayesian Regression with MCMC:** A collaborative project involving Bayesian inference and Metropolis–Hastings sampling.
+- **Fashion-MNIST Classification** — An individual project exploring CNNs, MLPs, and image augmentation with PyTorch.
+- **Bayesian Regression with MCMC** — A collaborative project exploring posterior inference and Metropolis–Hastings sampling.
 
-## Current Focus
+I'll add links to the code, results, and documentation as the repositories become public.
 
-I'm particularly interested in applying machine learning and statistical methods to real-world problems, with a focus on developing practical, reliable data-driven solutions.
+## Connect
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ali-poorseyed/)
+[LinkedIn](https://www.linkedin.com/in/ali-poorseyed/)
