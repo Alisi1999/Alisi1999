@@ -18,8 +18,8 @@ I'm preparing my academic and personal projects for public release, including:
 - **Fashion-MNIST Classification:** An individual deep learning project using PyTorch, CNNs, and MLPs.
 - **Bayesian Regression with MCMC:** A collaborative project involving Bayesian inference and Metropolis–Hastings sampling.
 
-## Career Interests
+## Current Focus
 
-I'm interested in working student (*Werkstudent*) opportunities in **Data Science, Machine Learning, AI, and related IT fields** in Germany.
+I'm particularly interested in applying machine learning and statistical methods to real-world problems, with a focus on developing practical, reliable data-driven solutions.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/ali-poorseyed/)
