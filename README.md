@@ -17,6 +17,3 @@ I'm preparing some of my academic and personal projects for public release:
 
 I'll add links to the code, results, and documentation as the repositories become public.
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/ali-poorseyed/)
