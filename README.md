@@ -4,7 +4,7 @@ I'm an **M.Sc. Data Science student at TU Dortmund University** with a backgroun
 
 ## What I work with
 
-**Python** · PyTorch · pandas · NumPy · scikit-learn · Jupyter Notebook
+**Python** · Java · PyTorch · pandas · NumPy · scikit-learn · Jupyter Notebook · Android Studio
 
 **Areas of interest:** Deep Learning · Statistical Inference · Bayesian Methods · Monte Carlo Simulation
 
