@@ -10,12 +10,10 @@ I'm a **Data Science master's student at TU Dortmund University** with a B.Sc. i
 
 ## Selected projects
 
-I'm preparing some of my academic and personal projects for public release:
+- **[Fashion-MNIST Classification (PyTorch)](https://github.com/Alisi1999/fashion-mnist-pytorch)** — Individual project using CNNs, MLPs, PyTorch Lightning, and image augmentation on a six-class Fashion-MNIST subset. Includes evaluation results and tests.
+- **[Bayesian Linear Regression with MCMC](https://github.com/Alisi1999/bayesian-regression-mcmc)** — Collaborative project implementing a Metropolis–Hastings sampler, convergence diagnostics, and posterior predictive analysis.
 
-- **Fashion-MNIST Classification** — An individual project exploring CNNs, MLPs, and image augmentation with PyTorch.
-- **Bayesian Regression with MCMC** — A collaborative project exploring posterior inference and Metropolis–Hastings sampling.
-
-I'll add links to the code, results, and documentation as the repositories become public.
+Both repositories contain code, setup instructions, and notes on reproducibility and limitations.
 
 ## Connect
 
