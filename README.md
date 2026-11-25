@@ -1,19 +1,24 @@
 # Hi, I'm Ali 👋
 
-I'm a **Data Science master's student at TU Dortmund University** with a B.Sc. in **Computer Engineering**. My projects include training and evaluating machine learning models in Python and developing Android applications in Java.
+I'm an **M.Sc. Data Science student at TU Dortmund University**, with a B.Sc. in **Computer Engineering**. I enjoy building practical data and machine learning projects—from cleaning and validating data to statistical modeling, training neural networks and evaluating results.
 
-## What I work with
+I'm interested in **Werkstudent opportunities in Data Science, Machine Learning, AI, Data Analytics, Data Engineering and related IT roles**.
 
-**Python** · Java · PyTorch · pandas · NumPy · scikit-learn · Jupyter Notebook · Android Studio
+## Technical toolkit
 
-**Areas of interest:** Applied Machine Learning · Deep Learning · Statistical Modeling · Data-Driven Applications
+**Programming & data:** Python · pandas · NumPy · SQL (SQLite) · scikit-learn · Git/GitHub
+
+**Machine learning & statistics:** PyTorch · Deep Learning · Bayesian Inference · MCMC · Model Evaluation
+
+**Data engineering practices:** Data Validation · KPI Reporting · SQL Joins & Window Functions · Automation · pytest · GitHub Actions
 
 ## Selected projects
 
-- **[Fashion-MNIST Classification (PyTorch)](https://github.com/Alisi1999/fashion-mnist-pytorch)** — Individual project using CNNs, MLPs, PyTorch Lightning, and image augmentation on a six-class Fashion-MNIST subset. Includes evaluation results and tests.
-- **[Bayesian Linear Regression with MCMC](https://github.com/Alisi1999/bayesian-regression-mcmc)** — Collaborative project implementing a Metropolis–Hastings sampler, convergence diagnostics, and posterior predictive analysis.
+- **[Data Platform KPI & Quality Monitor](https://github.com/Alisi1999/data-platform-kpi-monitor)** — Reproducible Python, pandas and SQLite project using *synthetic data* to validate pipeline runs, calculate reliability KPIs, analyze support-ticket patterns with SQL joins and window functions, and generate an HTML dashboard. Includes automated tests and GitHub Actions CI.
+- **[Fashion-MNIST Classification (PyTorch)](https://github.com/Alisi1999/fashion-mnist-pytorch)** — Individual project training and evaluating CNNs and MLPs using PyTorch Lightning, early stopping and image augmentation on a six-class Fashion-MNIST subset.
+- **[Bayesian Linear Regression with MCMC](https://github.com/Alisi1999/bayesian-regression-mcmc)** — Collaborative project implementing Metropolis–Hastings sampling, convergence diagnostics and posterior predictive analysis.
 
-Both repositories contain code, setup instructions, and notes on reproducibility and limitations.
+Each repository documents its setup, results and limitations. The data-platform monitor is a learning and portfolio demonstration, not a production monitoring system.
 
 ## Connect
 
