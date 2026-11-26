@@ -8,12 +8,13 @@ I'm interested in **Werkstudent opportunities in Data Science, Machine Learning,
 
 **Programming & data:** Python · pandas · NumPy · SQL (SQLite) · scikit-learn · Git/GitHub
 
-**Machine learning & statistics:** PyTorch · Deep Learning · Bayesian Inference · MCMC · Model Evaluation
+**Machine learning & statistics:** PyTorch · Deep Learning · Bayesian Inference · MCMC · Model Evaluation · Time-series forecasting
 
 **Data engineering practices:** Data Validation · KPI Reporting · SQL Joins & Window Functions · Automation · pytest · GitHub Actions
 
 ## Selected projects
 
+- **[Travel Demand Forecasting Backtest](https://github.com/Alisi1999/travel-demand-backtest)** — Compares five models, including Holt–Winters, across 82 rolling forecast dates. Last month’s passenger count beats the same month last year for one-month forecasts, but the ranking reverses at three months.
 - **[Data Platform KPI & Quality Monitor](https://github.com/Alisi1999/data-platform-kpi-monitor)** — Reproducible Python, pandas and SQLite project using *synthetic data* to validate pipeline runs, calculate reliability KPIs, analyze support-ticket patterns with SQL joins and window functions, and generate an HTML dashboard. Includes automated tests and GitHub Actions CI.
 - **[Fashion-MNIST Classification (PyTorch)](https://github.com/Alisi1999/fashion-mnist-pytorch)** — Individual project training and evaluating CNNs and MLPs using PyTorch Lightning, early stopping and image augmentation on a six-class Fashion-MNIST subset.
 - **[Bayesian Linear Regression with MCMC](https://github.com/Alisi1999/bayesian-regression-mcmc)** — Collaborative project implementing Metropolis–Hastings sampling, convergence diagnostics and posterior predictive analysis.
